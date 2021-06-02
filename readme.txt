@@ -1,10 +1,10 @@
 Using docker-compose:
 
   To start:
-    docker-compose up
+    docker compose up
   
   To stop:
-    docker-compose down
+    docker compose down
 
 ----------------------------------------------------
 ----------------------------------------------------
